@@ -13,6 +13,20 @@
         <li><code>pandas</code>: Library for data manipulation and analysis</li>
         <li>Other standard Python libraries</li>
     </ul>
+    <h2>Key Features</h2>
+    <ul>
+        <li><strong>Speech Recognition:</strong> Utilizes the Google Web Speech API through <code>speech_recognition</code> library to transcribe spoken words into text.</li>
+        <li><strong>Language Translation:</strong> Integrates <code>googletrans</code> library to translate recognized text into multiple target languages.</li>
+        <li><strong>Dynamic Language Selection:</strong> Supports a wide range of languages for both source and target translations.</li>
+        <li><strong>Ambient Noise Adjustment:</strong> Enhances accuracy by adjusting for ambient noise levels during speech recognition.</li>
+    </ul>
+    <h2>Technologies Used</h2>
+    <ul>
+        <li><strong>Python:</strong> Used for application development.</li>
+        <li><strong>Libraries:</strong> <code>speech_recognition</code>, <code>googletrans</code>, <code>numpy</code>, <code>pandas</code>, <code>re</code>, <code>nltk</code>, <code>sklearn</code>.</li>
+        <li><strong>Integrated Development Environment (IDE):</strong> Used Visual Studio Code</li>
+    </ul>
+    <hr>
     <h2>Setup</h2>
     <ol>
         <li>Clone the repository:</li>
