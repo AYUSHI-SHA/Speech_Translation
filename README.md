@@ -1,25 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>Real-Time Speech Translation README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        code {
-            background-color: #f0f0f0;
-            padding: 2px 5px;
-            border-radius: 4px;
-        }
-    </style>
-</head>
 <body>
     <h1>Real-Time Speech Translation</h1>
     <h2>Overview</h2>
